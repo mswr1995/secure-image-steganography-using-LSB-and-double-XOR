@@ -38,7 +38,7 @@ The reviewed methods demonstrate unique approaches to balancing security and dat
 - **Image Processing Libraries:** To analyze and evaluate the steganographic techniques.
 
 ## How to Use
-1. Clone the repository: `git clone <repository-link>`
+1. Clone the repository: 
 2. Explore the pdf files for detailed reviews and analyses.
 
 ## Author
